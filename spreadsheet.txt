@@ -1,0 +1,3 @@
+A1;number;55
+A2;text;Domain Model Implementation
+A3;formula;=SUM(A1, A2)
